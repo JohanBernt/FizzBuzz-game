@@ -20,8 +20,9 @@ else if (count % 3 === 0) {
   }
 
 count++; // adds plus one to the extra number that was added to the array.
-
+ }
+   
   console.log(output);
 }
-}
+
 
